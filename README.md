@@ -108,5 +108,5 @@ Linux, Git, and the databases the projects already use.
 </p>
 
 <p align="center">
-  <img alt="GitHub contribution graph for Kv-404, the standard green squares" src="https://ghchart.rshah.org/Kv-404" />
+  <img alt="GitHub contribution graph for Kv-404, black squares with green commits" src="https://ghchart.xqsit94.in/dark:default/Kv-404" />
 </p>
